@@ -1,0 +1,42 @@
+***** Here are all the animals. (8 animals printed)
+Animal Name: Count Batula	Warm Blooded	Mammal Bat 
+Animal Name: Blubby Blubs	Warm Blooded	Mammal Whale BlueWhale 
+Animal Name: Ms. Purrfect	Warm Blooded	Mammal Cat 
+Animal Name: Outback Ollie	Warm Blooded	Bird Emu 
+Animal Name: Sammy Swimmer	Cold Blooded	Fish Goldfish
+Animal Name: Henry Handholder	Warm Blooded	Mammal Otter 
+Animal Name: Songbird Stu	Warm Blooded	Bird Parakeet 
+Animal Name: Shelly Silversteen	Cold Blooded	Reptile Turtle 
+
+
+***** Check on the equals method.
+Should print true: true
+Should print true: true
+Should print false: false
+
+
+***** Here are just the mammals. (4 animals printed)
+Animal Name: Count Batula	Warm Blooded	Mammal Bat 
+Animal Name: Blubby Blubs	Warm Blooded	Mammal Whale BlueWhale 
+Animal Name: Ms. Purrfect	Warm Blooded	Mammal Cat 
+Animal Name: Henry Handholder	Warm Blooded	Mammal Otter 
+
+
+***** Here are the winged animals along with information about whether they can fly.  (3 animals printed)
+Animal Name: Count Batula	Warm Blooded	Mammal Bat 	Can fly
+Animal Name: Outback Ollie	Warm Blooded	Bird Emu 	Cannot Fly
+Animal Name: Songbird Stu	Warm Blooded	Bird Parakeet 	Can fly
+
+
+***** Here are the adoptable animals along with their care directions.  (4 animals printed)
+Animal Name: Ms. Purrfect	Warm Blooded	Mammal Cat 		Feed, change litter, give lots of love.
+Animal Name: Sammy Swimmer	Cold Blooded	Fish Goldfish		Feed, change water, and give lots of love.
+Animal Name: Songbird Stu	Warm Blooded	Bird Parakeet 		Feed, talk to, give lots of love.
+Animal Name: Shelly Silversteen	Cold Blooded	Reptile Turtle 		Feed, clean shell, and give lots of love.
+
+
+***** Here are the animals that can dwell in water, along with whether they can also live on land.  (4 animals printed)
+Animal Name: Blubby Blubs	Warm Blooded	Mammal Whale BlueWhale 		Cannot also live on land
+Animal Name: Sammy Swimmer	Cold Blooded	Fish Goldfish		Cannot also live on land
+Animal Name: Henry Handholder	Warm Blooded	Mammal Otter 		Can also live on land
+Animal Name: Shelly Silversteen	Cold Blooded	Reptile Turtle 		Can also live on land

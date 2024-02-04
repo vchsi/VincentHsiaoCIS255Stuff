@@ -1,0 +1,195 @@
+*****PRINTING OUT THE TEXT REPRESENTATION, DESCRIPTION, AREA, AND PERIMETER/VOLUME OF EACH SHAPE
+Rectangle	Width: 3	Height: 4
+Rectangle: A quadrilateral with four right angles
+	Area: 12.0
+	Perimeter: 14.0
+
+Rectangle	Width: 4	Height: 3
+Rectangle: A quadrilateral with four right angles
+	Area: 12.0
+	Perimeter: 14.0
+
+Rectangle	Width: 5	Height: 6
+Rectangle: A quadrilateral with four right angles
+	Area: 30.0
+	Perimeter: 22.0
+
+Square	Side Length: 2
+Rectangle: A quadrilateral with four right angles
+Square: A quadrilateral with four equal sides and four equal angles
+	Area: 4.0
+	Perimeter: 8.0
+
+Square	Side Length: 4
+Rectangle: A quadrilateral with four right angles
+Square: A quadrilateral with four equal sides and four equal angles
+	Area: 16.0
+	Perimeter: 16.0
+
+Square	Side Length: 4
+Rectangle: A quadrilateral with four right angles
+Square: A quadrilateral with four equal sides and four equal angles
+	Area: 16.0
+	Perimeter: 16.0
+
+Circle	Radius: 3
+Circle: A closed plane curve every point of which is equidistant from a fixed point within the curve
+	Area: 28.274333882308138
+	Perimeter: 18.84955592153876
+
+Circle	Radius: 5
+Circle: A closed plane curve every point of which is equidistant from a fixed point within the curve
+	Area: 78.53981633974483
+	Perimeter: 31.41592653589793
+
+Cynlinder 	Radius: 3	Height: 5
+Cylinder: A solid geometric figure with straight parallel sides and a circular or oval cross section
+	Area: 150.79644737231007
+	Volume: 141.3716694115407
+
+Cynlinder 	Radius: 4	Height: 6
+Cylinder: A solid geometric figure with straight parallel sides and a circular or oval cross section
+	Area: 251.32741228718345
+	Volume: 301.59289474462014
+
+Cynlinder 	Radius: 6	Height: 4
+Cylinder: A solid geometric figure with straight parallel sides and a circular or oval cross section
+	Area: 376.99111843077515
+	Volume: 452.3893421169302
+
+Cube	Side Length: 2
+Cube: A three-dimensional solid object bounded by six square faces with three meeting at each vertex
+	Area: 24.0
+	Volume: 8.0
+
+Cube	Side Length: 3
+Cube: A three-dimensional solid object bounded by six square faces with three meeting at each vertex
+	Area: 54.0
+	Volume: 27.0
+
+
+*****PRINTING ALL EQUAL, NON-ALIAS SHAPES
+Equal shapes found: 
+	Rectangle	Width: 3	Height: 4
+	Rectangle	Width: 4	Height: 3
+Equal shapes found: 
+	Rectangle	Width: 4	Height: 3
+	Rectangle	Width: 3	Height: 4
+Equal shapes found: 
+	Square	Side Length: 4
+	Square	Side Length: 4
+Equal shapes found: 
+	Square	Side Length: 4
+	Square	Side Length: 4
+
+*****PRINTING ALL CUBE/SQUARE COMBINATIONS WHERE THE SQUARE IS A SIDE FOR THE CUBE
+Square-Cube Match Found:
+	Square	Side Length: 2
+	Cube	Side Length: 2
+
+
+*****PRINTING ALL COMBINATIONS OF TWO-DIMENSIONAL SHAPES THAT CAN FIT INSIDE ANOTHER
+Nested Shapes Found:
+	Outer: Rectangle	Width: 3	Height: 4
+	Inner: Square	Side Length: 2
+
+Nested Shapes Found:
+	Outer: Rectangle	Width: 4	Height: 3
+	Inner: Square	Side Length: 2
+
+Nested Shapes Found:
+	Outer: Rectangle	Width: 5	Height: 6
+	Inner: Rectangle	Width: 3	Height: 4
+
+Nested Shapes Found:
+	Outer: Rectangle	Width: 5	Height: 6
+	Inner: Rectangle	Width: 4	Height: 3
+
+Nested Shapes Found:
+	Outer: Rectangle	Width: 5	Height: 6
+	Inner: Square	Side Length: 2
+
+Nested Shapes Found:
+	Outer: Rectangle	Width: 5	Height: 6
+	Inner: Square	Side Length: 4
+
+Nested Shapes Found:
+	Outer: Rectangle	Width: 5	Height: 6
+	Inner: Square	Side Length: 4
+
+Nested Shapes Found:
+	Outer: Rectangle	Width: 5	Height: 6
+	Inner: Circle	Radius: 3
+
+Nested Shapes Found:
+	Outer: Square	Side Length: 4
+	Inner: Rectangle	Width: 3	Height: 4
+
+Nested Shapes Found:
+	Outer: Square	Side Length: 4
+	Inner: Rectangle	Width: 4	Height: 3
+
+Nested Shapes Found:
+	Outer: Square	Side Length: 4
+	Inner: Square	Side Length: 2
+
+Nested Shapes Found:
+	Outer: Square	Side Length: 4
+	Inner: Rectangle	Width: 3	Height: 4
+
+Nested Shapes Found:
+	Outer: Square	Side Length: 4
+	Inner: Rectangle	Width: 4	Height: 3
+
+Nested Shapes Found:
+	Outer: Square	Side Length: 4
+	Inner: Square	Side Length: 2
+
+Nested Shapes Found:
+	Outer: Circle	Radius: 3
+	Inner: Rectangle	Width: 3	Height: 4
+
+Nested Shapes Found:
+	Outer: Circle	Radius: 3
+	Inner: Rectangle	Width: 4	Height: 3
+
+Nested Shapes Found:
+	Outer: Circle	Radius: 3
+	Inner: Square	Side Length: 2
+
+Nested Shapes Found:
+	Outer: Circle	Radius: 3
+	Inner: Square	Side Length: 4
+
+Nested Shapes Found:
+	Outer: Circle	Radius: 3
+	Inner: Square	Side Length: 4
+
+Nested Shapes Found:
+	Outer: Circle	Radius: 5
+	Inner: Rectangle	Width: 3	Height: 4
+
+Nested Shapes Found:
+	Outer: Circle	Radius: 5
+	Inner: Rectangle	Width: 4	Height: 3
+
+Nested Shapes Found:
+	Outer: Circle	Radius: 5
+	Inner: Rectangle	Width: 5	Height: 6
+
+Nested Shapes Found:
+	Outer: Circle	Radius: 5
+	Inner: Square	Side Length: 2
+
+Nested Shapes Found:
+	Outer: Circle	Radius: 5
+	Inner: Square	Side Length: 4
+
+Nested Shapes Found:
+	Outer: Circle	Radius: 5
+	Inner: Square	Side Length: 4
+
+Nested Shapes Found:
+	Outer: Circle	Radius: 5
+	Inner: Circle	Radius: 3
+
